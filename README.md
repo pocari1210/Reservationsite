@@ -7,7 +7,7 @@
 ・店舗リスト　・スタッフリスト　・カレンダー<br>
 ・予約　・予約確認　・休日設定<br>
 
-カレンダーは当日以降で予約ができ、
+カレンダーは当日以降で予約ができ、<br>
 予約があった際、Djangoの確認画面で確認をすることが
 できます
 
@@ -16,7 +16,7 @@ HTML・CSS(Bootstrap)<br>
 python(Django)
 
 <h2>◆難しかった点◆</h2>
-スタッフの画像を反映することができませんでした。
+スタッフの画像を反映することができませんでした。<br>
 また原因を特定し、修正を行っていけたらと思います。
 
 
@@ -33,13 +33,5 @@ python(Django)
 <img src="https://user-images.githubusercontent.com/98627989/167992510-22c14eb9-9e17-4d89-bcab-4e4f7528acc8.png" alt="thanksページ"width="300" height="250">
 <img src="https://user-images.githubusercontent.com/98627989/167992577-dd3bd22e-950d-4406-9e76-2c7775756554.png" alt="予約済み"width="300" height="250">
 </p><br>
-
-![image]()
-
-
-
-
-
-
 
 
